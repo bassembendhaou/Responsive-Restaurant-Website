@@ -86,7 +86,7 @@ function Services() {
                 repudiandae numquam hic quo recusandae. Excepturi totam ad nam
                 velit quasi quidem aspernatur.
               </p>
-              <button className="bg-gradient-to-r  from-primary to-secondary w-32 px-4 py-2 rounded-full text-white ">
+              <button className="bg-gradient-to-r hover:scale-105 duration-200  from-primary to-secondary w-32 px-4 py-2 rounded-full text-white ">
                 Order now
               </button>
             </div>
